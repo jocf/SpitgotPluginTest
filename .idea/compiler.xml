@@ -9,5 +9,8 @@
         <module name="SpigotPluginTest" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="SpigotPluginTest" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>
